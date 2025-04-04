@@ -1,0 +1,33 @@
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+    padding: 20px;
+}
+
+.profile-card {
+    background: rgb(188, 208, 255);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    display: inline-block;
+    text-align: center;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background: #007BFF;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
